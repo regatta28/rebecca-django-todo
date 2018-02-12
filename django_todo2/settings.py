@@ -26,7 +26,8 @@ SECRET_KEY = 'y(fd)pn9t^j5sh5(oibc$l1l#d-o**uha&95d^y*0_v0w=o2a)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-todo2-regattas.c9users.io']
+ALLOWED_HOSTS = ['django-todo2-regattas.c9users.io', 
+                 'lit-caverns-66512.herokuapp.com']
 
 
 # Application definition
